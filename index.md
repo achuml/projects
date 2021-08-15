@@ -2,5 +2,8 @@
 
 ###About Me
 
-asdfadsfadsfasdf
 
+asdfadsfadsfa
+
+###Projects
+<a href="Final_Report_Template.html" title="STOR320 Final Project">Click here to view project</a>
