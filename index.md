@@ -2,7 +2,7 @@
 
 ### About Me
 
-<img align="right" width="200" src="IMG_3768.PNG">
+<img align="right" width="200" src="IMG_3768.jpg">
 
 asdfadsfadsfa
 
