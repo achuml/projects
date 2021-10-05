@@ -16,6 +16,12 @@ My resume can also be found
 
 **Class: STOR 320: Introduction to Data Science**
 
-**Project Description** asdfasdf
+**Project Description** 
+
+This project was a final assignment in STOR 320, a sophmore year statistics class. Within a group of four members, we chose the topic of head injuries in the NFL, and posed several questions we wanted to try and answer. Then throughout the course, we progressively used the skills we learned to bring the data into R, clean it, and manipulate/analyze it in order to answer the questions proposed at the beginning. Finally, we downloaded our findings, information, and process into the html file linked above.
 
 **Skills Used** 
+
+- R coding
+- Data Analysis
+- Collaborative team building and work
