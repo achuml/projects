@@ -24,4 +24,4 @@ This project was a final assignment in STOR 320, a sophmore year statistics clas
 
 - R coding
 - Data Analysis
-- Collaborative team building and work
+- Collaborative team building and group work
