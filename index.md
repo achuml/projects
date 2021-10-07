@@ -11,7 +11,7 @@ My resume can also be found
 
 ### Projects
 
-#### Project 1: title
+#### Project 1: NFL Head Injuries
 <a href="Final_Report_Template.html" title="STOR320 Final Project">Click here to view project</a>
 
 **Class: STOR 320: Introduction to Data Science**
