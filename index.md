@@ -26,10 +26,10 @@ This project was a final assignment in STOR 320, a sophmore year statistics clas
 - Data Analysis
 - Collaborative team building and group work
 
-### Projects
+
 
 #### Project 2: Where Steaks Meet Statistics: Modeling Inventory Demand as a Finite-Horizon Markov Decision Process
-<a href="FInished Final Project.pdf" title="STOR320 Final Project">Click here to view project</a>
+<a href="FInished Final Project.pdf" title="STOR515 Final Project">Click here to view project</a>
 
 **Class: STOR 515: Dynamic Decision Analytics**
 
@@ -46,4 +46,19 @@ This project was a final assignment in STOR 515, a upper level statistics class.
 - Markov Decision Processes
 - Collaborative team building and group work
 
-<a href="a09-nonograms-1.0-SNAPSHOT.jar" title="STOR320 Final Project">Click here to view project</a>
+
+#### Project 3: Nonograms
+<a href="a09-nonograms-1.0-SNAPSHOT.jar" title="COMP301 Final Assignment">Click here to view project</a>
+
+**Class: Comp 301: Foundations of Programming**
+
+**Project Description** 
+
+This project was the last assignment in Comp 301, an intermediate level computer science class. We were tasked with creating a playable version of the game Nonograms in Intellij. The only help we were given was the basic outline/setup for MVC and a automatic grader for the model code. Over the span of a week, I wrote the model, view, and controller sections to create the game linked above, which you are able to download and play.
+
+**Skills Used** 
+
+- Java Coding
+- CSS
+- MVC setup
+
