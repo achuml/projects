@@ -4,7 +4,7 @@
 
 <img align="right" width="200" src="IMG_5118.jpg">
 
-My name is Alex Huml and I am a Statistics and Operations Research, and Economics double major with a Data Science minor. I graduate from UNC in 2023 and, as of right now, have a 3.99 GPA.  
+My name is Alex Huml and I am a Statistics and Operations Research, and Economics double major with a Data Science minor. I graduate from UNC in 2023 and, as of right now, have a 3.97 GPA.  
 
 My resume can also be found 
 <a href="resume_1-8-2023.pdf" title="ACHumlResume">here.</a>
