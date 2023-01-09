@@ -2,7 +2,7 @@
 
 ### About Me
 
-<img align="right" width="200" src="IMG_3768.jpg">
+<img align="right" width="200" src="IMG_5118.jpg">
 
 My name is Alex Huml and I am a Statistics and Economics double major, with a Computer Science minor, at UNC. I graduate in 2023 and, as of right now, have a 3.99 GPA.  
 
