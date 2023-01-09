@@ -44,7 +44,7 @@ This project was a final assignment in STOR 515, a upper level statistics class.
 - Data Gathering
 - Data Cleaning
 - Markov Decision Processes
-- Collaborative team building and group work
+- Collaborative team building
 
 
 #### Project 3: Nonograms
@@ -62,3 +62,20 @@ This project was the last assignment in Comp 301, an intermediate level computer
 - CSS
 - MVC setup
 
+
+#### Project 4: The Cause of Fewer Hours Worked in Europe Compared to the United States
+<a href="Econ 520 Final Submission.pdf" title="STOR515 Final Project">Click here to view project</a>
+
+**Class: Econ 520: Advanced Macro Economics**
+
+**Project Description** 
+
+This project was a semester long literature review. We worked in teams of three and the objective was to choose an economic topic with no clear consensus and do a literature review about the different viewpoints. Our group chose to focus on the difference in working hours between the United States and Europe; after we had chose this topic, we researched it through academic journals and other reliable sources. Finally, we put our findings into the paper linked above, which discusses the different viewpoints and supporting data, but doesn't draw any conclusions since there is no common, widely accepted exlaination.
+
+**Skills Used** 
+
+- Macro Economics
+- Academic Writing
+- Academic Research *Through already written papers/articles
+- Communication with team
+- Time Management
