@@ -54,7 +54,7 @@ This project was a final assignment in STOR 515, a upper level statistics class.
 
 **Project Description** 
 
-This project was the last assignment in Comp 301, an intermediate level computer science class. We were tasked with creating a playable version of the game Nonograms in Intellij. The only help we were given was the basic outline/setup for MVC and a automatic grader for the model code. Over the span of a week, I wrote the model, view, and controller sections to create the game linked above, which you are able to download and play.
+This project was the last assignment in Comp 301, an intermediate level computer science class. We were tasked with creating a playable version of the game Nonograms in Intellij. The only help we were given was the basic outline/setup for MVC and a automatic grader for the model code. Over the span of a week, I wrote the model, view, and controller sections to create the game linked above, which you are able to download and play; left click to select/fill in cell and right click to eliminate cell (provided for ease of use, but not necessary).
 
 **Skills Used** 
 
