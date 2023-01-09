@@ -45,3 +45,5 @@ This project was a final assignment in STOR 515, a upper level statistics class.
 - Data Cleaning
 - Markov Decision Processes
 - Collaborative team building and group work
+
+<a href="a09-nonograms-1.0-SNAPSHOT.jar" title="STOR320 Final Project">Click here to view project</a>
